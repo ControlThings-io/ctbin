@@ -1,0 +1,8 @@
+= ControlThings Binary (ctbin)
+
+The goal of *ctbin* is to become the security professional's Swiss army knife for analyzing binary files.  Once completed, features will include
+support for:
+
+* [ ] No assumption of data being divisible by 8 bits
+* [ ] Rich hexdump capable with multi-decode plus rough entropy
+* [ ] Decode character sets: ACSII, UTF-8, UTF-16, UTF-32
